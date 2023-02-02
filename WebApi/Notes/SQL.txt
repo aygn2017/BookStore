@@ -1,0 +1,10 @@
+SQL(Structured Query Language)
+SQL(Structured Query Language) yapýsal sorgulama dilidir.
+SQL bir programlama dili deðildir.
+Veritabaný yönetim sistemlerini ve sql sorgulama dilini kullanarak veritabanlarý üzerinde çalýþabiliriz.
+
+SQl tüm veritabanlarý arasýnda standart haline gelmiþ bir dildir.
+Bazý veritabaný yönetim sistemleri SQL'i kendi sistemleri için daha da geliþtirerek türetmiþtir.
+Örneðin SQL Server ile T-SQL kullanýrken, Oracle veritabaný yönetim sistemi ile PL-SQL kullanýlýr.
+
+LINQ ifadelerini okuyabilmek, arka planda çalýþan sql cümlesini aklýmýzda kurabilmek için temel düzeyde sql bilgisine sahip olmamýz gerekir.
